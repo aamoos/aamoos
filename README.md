@@ -40,9 +40,11 @@
 
 <div align=center><h1>:smile: My GitHub Stats :smile: </h1></div>
 <br>
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aamoos&show_icons=true&theme=radical" />
-</a>
+<div align=center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=aamoos&show_icons=true&theme=radical" />
+  </a>
+</div>
 
 <!--
 **aamoos/aamoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
