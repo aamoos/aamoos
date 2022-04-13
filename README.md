@@ -57,6 +57,19 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoos&langs_count=10&layout=compact&theme=dark" />
   </a>
 </div>
+<br>
+
+<div align=center><h1>:pencil2: My Most Used Language :pencil2: </h1></div>
+<br>
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aamoos&theme=flat&column=7" />
+  </a>
+</div>
+
+
+
+
 
 <!--
 **aamoos/aamoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
