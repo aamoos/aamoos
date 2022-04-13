@@ -39,8 +39,8 @@
 </div>
 
 <div align=center><h1>:smile: My GitHub Stats :smile: </h1></div>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<br>
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aamoos&show_icons=true&theme=radical" />
 </a>
 
