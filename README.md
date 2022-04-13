@@ -1,5 +1,6 @@
-<p align="center">
+
 [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=90)](https://nodesource.com/products/nsolid)
+<p align="center">
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
