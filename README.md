@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
   </div>
 </div>
-<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamoos&show_icons=true&theme=radical)
 
 
