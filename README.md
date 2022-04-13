@@ -1,7 +1,5 @@
+[![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=Welcome%20&fontSize=90)](https://nodesource.com/products/nsolid)
 
-<div align=center>
-  [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=Welcome%20&fontSize=90)](https://nodesource.com/products/nsolid)
-</div>
 <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
