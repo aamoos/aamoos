@@ -50,7 +50,7 @@
 </div>
 <br>
 
-<div align=center><h1>:smile: My Most Used Language :smile: </h1></div>
+<div align=center><h1>:pencil2: My Most Used Language :pencil2: </h1></div>
 <br>
 <div align=center>
   <a href="https://github.com/jogilsang/jogilsang">
