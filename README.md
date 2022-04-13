@@ -1,5 +1,5 @@
 
-[![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=120)](https://nodesource.com/products/nsolid)
+[![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=500&section=header&text=Welcome%20&fontSize=90)](https://nodesource.com/products/nsolid)
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
