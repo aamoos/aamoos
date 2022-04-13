@@ -59,7 +59,7 @@
 </div>
 <br>
 
-<div align=center><h1>:pencil2: My Most Used Language :pencil2: </h1></div>
+<div align=center><h1>:trophy: My trophy :trophy:</h1></div>
 <br>
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
