@@ -39,6 +39,7 @@
 </div>
 
 <div align=center><h1>:smile: My GitHub Stats :smile: </h1></div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aamoos&show_icons=true&theme=radical)
 
 
