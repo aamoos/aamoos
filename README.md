@@ -6,8 +6,8 @@
     <img src="https://img.shields.io/github/followers/aamoos?style=social" />
   </a>
 </div>
-
 <br>
+
 [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid)
 <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
