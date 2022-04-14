@@ -2,16 +2,11 @@
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faamoos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false" />
   </a>
-  
   <a href="https://img.shields.io/github/followers">
     <img src="https://img.shields.io/github/followers/aamoos?style=social" />
   </a>
-  
 </div>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faamoos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![followers](https://img.shields.io/github/followers/aamoos?style=social)
 <br>
 [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid)
 <div align=center><h1>📚 STACKS</h1></div>
