@@ -75,7 +75,6 @@
   </a>
 </div>
 
-<!--
 <br>
 <div align=center><h1>My BaekJoon Score</h1></div>
 <div align=center>
@@ -83,7 +82,7 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=aamoos" />
   </a>
 </div>
--->
+
 
 <!--
 **aamoos/aamoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
