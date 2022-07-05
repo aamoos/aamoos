@@ -82,7 +82,7 @@
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=aamoos" />
   </a>
 </div>
-
+<br>
 <div align=center>
   <a href="https://solved.ac/aamoos">
     <img src="http://mazandi.herokuapp.com/api?handle=aamoos&theme=warm"/>
