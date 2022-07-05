@@ -60,6 +60,21 @@
   </div>
 </div>
 <br>
+
+<div align=center><h1>:star: My BaekJoon Score :star:</h1></div>
+<div align=center>
+  <a href="https://solved.ac/aamoos">
+    <img src="http://mazassumnida.wtf/api/generate_badge?boj=aamoos" />
+  </a>
+</div>
+<br>
+<div align=center>
+  <a href="https://solved.ac/aamoos">
+    <img src="http://mazandi.herokuapp.com/api?handle=aamoos&theme=warm"/>
+  </a>
+</div>
+<br>
+
 <div align=center><h1>:smile: My GitHub Stats :smile: </h1></div>
 <br>
 <div align=center>
@@ -85,22 +100,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=aamoos&theme=onedark" />
   </a>
 </div>
-
-<br>
-<div align=center><h1>:star: My BaekJoon Score :star:</h1></div>
-<div align=center>
-  <a href="https://solved.ac/aamoos">
-    <img src="http://mazassumnida.wtf/api/generate_badge?boj=aamoos" />
-  </a>
-</div>
-<br>
-<div align=center>
-  <a href="https://solved.ac/aamoos">
-    <img src="http://mazandi.herokuapp.com/api?handle=aamoos&theme=warm"/>
-  </a>
-</div>
-
-
 
 <!--
 **aamoos/aamoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
