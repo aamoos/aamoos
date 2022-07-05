@@ -10,9 +10,12 @@
 
 [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid)
 
-<div align=center><h1>:ghost: BLOG :ghost:</h1></div>
+<div align=center><h1>:ghost: Info :ghost:</h1></div>
   <div align=center> 
+    안녕하세요. 즐겁게 일하는 4년차 백엔드 개발자입니다
+    <br>
     tistory : https://aamoos.tistory.com/
+    <br>
     potfolio : https://aamoos.github.io/
   </div>
 </div>
