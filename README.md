@@ -83,7 +83,12 @@
   </a>
 </div>
 
-<img src="http://mazandi.herokuapp.com/api?handle=aamoos&theme=warm"/>
+<div align=center>
+  <a href="https://solved.ac/aamoos">
+    <img src="http://mazandi.herokuapp.com/api?handle=aamoos&theme=warm"/>
+  </a>
+</div>
+
 
 
 <!--
