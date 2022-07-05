@@ -76,7 +76,7 @@
 </div>
 
 <br>
-<div align=center><h1>My BaekJoon Score</h1></div>
+<div align=center><h1>:star: My BaekJoon Score :star:</h1></div>
 <div align=center>
   <a href="https://solved.ac/aamoos">
     <img src="http://mazassumnida.wtf/api/generate_badge?boj=aamoos" />
