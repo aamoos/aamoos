@@ -20,6 +20,7 @@
   </div>
 </div>
 <br>
+
 <div align=center><h1>📚 STACKS</h1></div>
   <div align=center> 
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -57,6 +58,15 @@
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
+  </div>
+</div>
+<br>
+
+<div align=center><h1>자격증</h1></div>
+  <div align=center> 
+    SQLD
+    <br>
+    정보처리기사
   </div>
 </div>
 <br>
