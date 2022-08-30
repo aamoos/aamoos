@@ -64,9 +64,9 @@
 
 <div align=center><h1>📚 자격증</h1></div>
   <div align=center> 
-    SQLD
+    SQLD (2022.06)
     <br>
-    정보처리기사
+    정보처리기사 (2021.06)
   </div>
 </div>
 <br>
