@@ -90,7 +90,7 @@
 <br>
 <div align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=aamoos&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aamoos&show_icons=true&theme=radical" />
   </a>
 </div>
 <br>
@@ -99,7 +99,7 @@
 <br>
 <div align=center>
   <a href="https://github.com/jogilsang/jogilsang">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aamoos&langs_count=10&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aamoos&langs_count=10&layout=compact&theme=dark" />
   </a>
 </div>
 <br>
