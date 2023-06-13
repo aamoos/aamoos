@@ -62,7 +62,7 @@
   </div>
 </div>
 <br>
-
+ 
 <div align=center><h1>📚 자격증</h1></div>
   <div align=center> 
     SQLD (2022.06) 취득
