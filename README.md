@@ -16,7 +16,7 @@
     <br>
     tistory : https://aamoos.tistory.com/
     <br>
-    potfolio : https://aamoos.github.io/
+    potfolio : https://chemical-saffron-758.notion.site/JaeSung-Kim-1942e4b4a0554681b61d340387346af4
   </div>
 </div>
 <br>
