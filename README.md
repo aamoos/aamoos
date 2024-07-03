@@ -8,10 +8,7 @@
 </div>
 <br>
 
-<!-- [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid) -->
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+[![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid)
 
 <div align=center><h1>:ghost: Info :ghost:</h1></div>
   <div align=center> 
