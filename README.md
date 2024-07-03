@@ -107,7 +107,9 @@
 </div>
 <br>
 <div align=center><h1>:smile: My GitHub Commit stack :smile: </h1></div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=aamoos&locale=ko)](https://git.io/streak-stats)
+<div align=center>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=aamoos&locale=ko" alt="GitHub Streak" /></a>
+</div>
 <br>
 <div align=center><h1>:pencil2: My Most Used Language :pencil2: </h1></div>
 <br>
