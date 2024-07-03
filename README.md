@@ -10,7 +10,7 @@
 
 <!-- [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid) -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelCome%20MyGitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=WelCome&fontSize=90" />
 
 <div align=center><h1>:ghost: Info :ghost:</h1></div>
   <div align=center> 
