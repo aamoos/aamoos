@@ -118,7 +118,7 @@
 <br>
 <div align=center>
   <a href="https://github.com/jogilsang/jogilsang">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aamoos&langs_count=10&layout=compact&theme=dark" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aamoos&langs_count=20&layout=compact&theme=dark" />
   </a>
 </div>
 <br>
