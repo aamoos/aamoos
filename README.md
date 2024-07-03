@@ -8,7 +8,9 @@
 </div>
 <br>
 
-[![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid)
+<!-- [![N|Solid](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&&section=header&text=MyProfile&fontSize=90)](https://nodesource.com/products/nsolid) -->
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 <div align=center><h1>:ghost: Info :ghost:</h1></div>
   <div align=center> 
