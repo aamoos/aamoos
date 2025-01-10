@@ -14,7 +14,7 @@
 
 <div align=center><h1>:ghost: Info :ghost:</h1></div>
   <div align=center> 
-    안녕하세요. 즐겁게 일하는 6년차 백엔드 개발자입니다
+    안녕하세요. 즐겁게 일하는 7년차 백엔드 개발자입니다
     <br>
     tistory : https://aamoos.tistory.com/
     <br>
