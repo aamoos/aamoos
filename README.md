@@ -10,7 +10,7 @@
 
 <h1 align="center">:ghost: Info :ghost:</h1>
 <p align="center">
-  안녕하세요. 즐겁게 일하는 7년차 백엔드 개발자입니다.<br>
+  안녕하세요. 즐겁게 일하는 8년차 백엔드 개발자입니다.<br>
   <a href="https://aamoos.tistory.com/">Tistory Blog</a> ·
   <a href="https://kjs-portfolio2024.vercel.app/">Portfolio</a>
 </p>
